@@ -9,12 +9,14 @@ A simple text summarizer that makes use of the frequencies of words in document 
 <br>nltk
 <br>scipy
 <br>scikit-learn
+<br>gensim
 
 # Install
 <br>numpy:        $ sudo pip install numpy
 <br>nltk:         $ sudo pip install nltk
 <br>scipy:        $ sudo pip install scipy
 <br>scikit-learn: $ sudo pip install sklearn
+<br>gensim:       $ sudo pip install gensim
 
 # Usage
 For running revised approach run the demo.py file which is put inside the Revised_approach folder
