@@ -5,8 +5,8 @@ The former extracts words and word phrases from the original text to create a su
 A simple text summarizer that makes use of the frequencies of words in document and creates a summary using the sentences having the most frequent words.
 
 <u># Dependencies</u>
-numpy
-nltk
-scipy
-scikit-learn
+<br>numpy</br>
+<br>nltk</br>
+<br>scipy</br>
+<br>scikit-learn</br>
 
