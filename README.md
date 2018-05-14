@@ -4,9 +4,18 @@ The former extracts words and word phrases from the original text to create a su
 
 A simple text summarizer that makes use of the frequencies of words in document and creates a summary using the sentences having the most frequent words.
 
-<u># Dependencies</u>
+# Dependencies
 <br>numpy
 <br>nltk
 <br>scipy
 <br>scikit-learn
+
+# Install
+<br>numpy:        $ sudo pip install numpy
+<br>nltk:         $ sudo pip install nltk
+<br>scipy:        $ sudo pip install scipy
+<br>scikit-learn: $ sudo pip install sklearn
+
+# Usage
+For running revised approach run the demo.py file which is put inside the Revised_approach folder
 
