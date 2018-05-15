@@ -19,6 +19,6 @@ A simple text summarizer that makes use of the frequencies of words in document 
 <br>gensim:       $ sudo pip install gensim
 
 # Usage
-For running revised approach run the demo.py file which is put inside the Revised_approach folder
-For running alternate approach run the document_summarization.py file which is put inside Alternate_approach folder
+For running revised approach run the __demo.py__ file which is put inside the Revised_approach folder
+For running alternate approach run the __document_summarization.py__ file which is put inside Alternate_approach folder
 
